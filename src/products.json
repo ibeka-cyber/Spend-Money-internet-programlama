@@ -1,0 +1,151 @@
+
+[
+    {
+        "id":1,
+        "title":"Akıllı Süpürge",
+        "price":3500,
+        "image":"https://i.hizliresim.com/k85rcux.png"
+        
+        
+    },
+    {
+        "id":2,
+        "title":"Tesla 2022 Model Araba",
+        "price":4000000,
+        "image":"https://i.hizliresim.com/jg6rwpd.png"
+    },
+    {
+        "id":3,
+        "title":"X Box Series S Oyun Konsolu",
+        "price":7500,
+        "image":"https://i.hizliresim.com/36vpbwp.png"
+    },
+    {
+        "id":4,
+        "title":"Faber Castel Kalem",
+        "price":270,
+        "image":"https://i.pinimg.com/564x/61/a3/16/61a3166d7e2e1c3084dde2025818e7a8.jpg"
+    },
+    {
+        "id":5,
+        "title":"Akıllı Saat",
+        "price":1199,
+        "image":"https://i.pinimg.com/564x/ea/e3/41/eae3412149e786154755fa6583100642.jpg"
+    },
+    {
+        "id":6,
+        "title":"Amazon Hediye Kartı",
+        "price":10000,
+        "image":"https://resmim.net/cdn/2023/01/04/PtK0i.jpg"
+    },
+    {
+        "id":7,
+        "title":"Jordan Air Spor Ayakkabı",
+        "price":2100,
+        "image":"https://resmim.net/cdn/2023/01/04/PtYLC.png"
+    },
+    {
+        "id":8,
+        "title":"Bir Yıllık Cambly",
+        "price":37000,
+        "image":"https://resmim.net/cdn/2023/01/04/PteWG.png"
+    },
+    {
+        "id":9,
+        "title":"1 Kilo Dana Eti",
+        "price":145,
+        "image":"https://resmim.net/cdn/2023/01/04/PtoY1.png"
+    },
+    {
+        "id":10,
+        "title":"Alplerde Ev",
+        "price":900000,
+        "image":"https://resmim.net/cdn/2023/01/04/Ptr6T.webp"
+    },
+    {
+        "id":11,
+        "title":"Iphone 17 Pro Max",
+        "price":50999,
+        "image":"https://i.hizliresim.com/gprzq8s.png"
+    },
+    {
+        "id:":12,
+        "title":"KNBGKNG Kitabı",
+        "price":299,
+        "image":"https://i.hizliresim.com/gakr1go.png"
+    },
+    {
+        "id":13,
+        "title":"Vintage Gaming Klavye",
+        "price":4999,
+        "image":"https://i.hizliresim.com/pkszuo1.png"
+    },{
+        "id":14,
+        "title":"Kulaklık",
+        "price":7500,
+        "image":"https://resmim.net/cdn/2023/01/04/Pty2L.webp"
+    },
+    {
+        "id":15,
+        "title":"Mysterium Masa Oyunu",
+        "price":2750,
+        "image":"https://i.hizliresim.com/6jwdcmr.png"
+    },
+    {
+        "id":16,
+        "title":"2022 Model Lamborghini",
+        "price":25000000,
+        "image":"https://resmim.net/cdn/2023/01/04/Pt1lo.png"
+    },{
+        "id":17,
+        "title":"Monster Laptop",
+        "price":150000,
+        "image":"https://resmim.net/cdn/2023/01/04/Pt57W.png"
+    },
+    {
+        "id":18,
+        "title":"Lego İnşaat Seti",
+        "price":780,
+        "image":"https://i.hizliresim.com/nd7t3pg.png"
+    },
+    {
+        "id":19,
+        "title":"LOL 7200 RP",
+        "price":1000,
+        "image":"https://resmim.net/cdn/2023/01/04/PtRch.webp"
+    },
+    {
+        "id":20,
+        "title":"Vintage Mercedes 2022 Model",
+        "price":20000000,
+        "image":"https://resmim.net/cdn/2023/01/04/PtiwK.webp"
+    },{
+        "id":21,
+        "title":"Netflix 1 Yıllık Üyelik",
+        "price":660,
+        "image":"https://i.hizliresim.com/84ssnxn.png"
+    },
+    {
+        "id":22,
+        "title":"Oyuncu Koltuğu",
+        "price":5000,
+        "image":"https://i.hizliresim.com/c1jswpy.png"
+    },
+    {
+        "id":23,
+        "title":"Playstation 5 500GB",
+        "price":20000,
+        "image":"https://i.hizliresim.com/oz66tnz.png"
+    },
+    {
+        "id":24,
+        "title":"Samsung Smart QLED Tv 8K",
+         "price":152000,
+         "image":"https://resmim.net/cdn/2023/01/04/Pt41M.webp"
+
+    }
+
+
+
+   
+]
